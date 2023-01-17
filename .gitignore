@@ -1,8 +1,4 @@
-cd Documents/comp1800
-mkdir demo03
-cd demo03
-
-git clone URL  (URL to be cloned will be given to you during Demo)       
-dir
-cd repo-name
-dir
+.DS_Store
+*.log
+node_modules/
+.vscode/
